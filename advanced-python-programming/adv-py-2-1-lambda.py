@@ -38,7 +38,7 @@
 ## Use lambda in filter
 
 # exp (1): Filter even numbers
-my_list = [1, 5, 6, 8, 10, 11]
-filter_even = filter(lambda x: x % 2 == 0, my_list)
-filter_even = list(filter_even)
-print(filter_even)
+# my_list = [1, 5, 6, 8, 10, 11]
+# filter_even = filter(lambda x: x % 2 == 0, my_list)
+# filter_even = list(filter_even)
+# print(filter_even)
